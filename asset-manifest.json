@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/yu-gi-oh/static/js/main.5c27c502.js",
+    "main.js": "/yu-gi-oh/static/js/main.5806bd7d.js",
     "index.html": "/yu-gi-oh/index.html",
-    "main.5c27c502.js.map": "/yu-gi-oh/static/js/main.5c27c502.js.map"
+    "main.5806bd7d.js.map": "/yu-gi-oh/static/js/main.5806bd7d.js.map"
   },
   "entrypoints": [
-    "static/js/main.5c27c502.js"
+    "static/js/main.5806bd7d.js"
   ]
 }

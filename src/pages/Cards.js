@@ -41,7 +41,7 @@ const Cards = () => {
                   <NavLink
                     type="btn"
                     className="btn btn-success btn-lg mt-auto"
-                    to={"/carta/" + item.id}
+                    to={"/yu-gi-oh/carta/" + item.id}
                   >
                     Details
                   </NavLink>

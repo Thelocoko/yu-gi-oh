@@ -14,9 +14,9 @@ function App() {
       <Router>
         <Navbar brand="Yu Gi Oh en react" />
         <Routes>
-          <Route exact path="/lista" element={<Cards />} />
-          <Route exact path="/carta/:id" element={<Home />} />
-          <Route exact path="*" element={<Navigate replace to="/lista" />} />
+          <Route exact path="/yu-gi-oh/lista" element={<Cards />} />
+          <Route exact path="/yu-gi-oh/carta/:id" element={<Home />} />
+          <Route exact path="*" element={<Navigate replace to="/yu-gi-oh/lista" />} />
         </Routes>
       </Router>
     </Provider>
